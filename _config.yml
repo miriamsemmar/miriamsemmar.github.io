@@ -1,11 +1,11 @@
 # Site settings
 author: Miriam Semmar
-title: 
+title: Miriam Semmar
 header-img: img/home-bg.png
 email: miriam.semmar@gmail.com
 copyright_name: Miriam Semmar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  miriamsemmar
