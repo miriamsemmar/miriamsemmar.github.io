@@ -1,0 +1,16 @@
+---
+layout: post
+title:      "Onwards, to Data Science "
+date:       2020-05-26 02:49:16 +0000
+permalink:  onwards_to_data_science
+---
+
+
+I went to Williams College. Nestled in tiny Williamstown, Massachusetts, its alumni affectionately refer to it as “the purple bubble”. While the purple mountains serve as the backdrop for your undergraduate experience, they also acts as walls blocking out the outside world. As a first generation college student, I entered my freshman year with a similarly narrow view of my career path. I was determined to become a doctor and focused my coursework on the sciences. I didn’t use my college years to explore other careers. When my senior year rolled around and it was time to start applying to medical schools, I was hesitant to make the commitment to this very expensive next step. I decided to postpone applying to medical school and started assessing my options.
+
+While I could have easily pursued research positions, I found myself drawn to advertising and business jobs. I had spent my senior year completing a Biology thesis. Not only did I spend hours in the lab, I dedicated time to collecting, organizing and analyzing my data. This culminated in a paper outlining my process and a presentation highlighting key findings. Throughout this process, I drew on my basic statistic knowledge and taught myself more advanced Excel techniques. This was the first time I had spent a substantial time working in Excel files, creating formulas and perfecting visualizations. I loved it. I enjoyed having to troubleshoot formulas, finding new ways to clean data and finding the meaning behind all of the data. 
+
+Ultimately, I started my career in paid media at an advertising agency where I ran new kinds of experiments. Which creative performs better? What audiences resonate with which messaging? Where should we be investing our advertising dollars? These were all questions I was able to help my clients answer. It was exciting to be able to use real-time data to drive business decisions. However, clients limit access to certain types of data and I found myself yearning for more. I wanted to be able to the complete picture of the business to further understand the impact of various decisions. 
+
+Moving away from the agency world, I joined a private tech company. Still working within media, I’ve been fortunate enough to now have access to sales data, CRM information, site analytics and more. I’ve been fortunate enough to participate in dashboard building, the creation of forecasting models, adjustments to our internal attribution models and more. However, I quickly realized that Google Sheets and Excel are not sufficient tools for all of these needs, and took it upon myself to complete a SQL course. This has been very helpful in managing and organizing the data I work with on a  daily basis. However, as we’ve already learned now over a month into this course, SQL can’t do all of the things we need when completing more complicated analyses. I’m excited to add new skills to my mental inventory and further develop my analytical skills in order to tackle more complicated projects.
+
