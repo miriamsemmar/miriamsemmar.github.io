@@ -94,7 +94,7 @@ Jake and the Never Land Pirates: F-f-frozen Never Land and Little Stinkers 2013
 100 Degrees Below Zero
 ```
 
-While this isn't a perfect method, it certainly helps when we don't already have movie IDs. Furthermore, these results are ordered by best match so the first match will typically be what you're looking for. We can  
+While this isn't a perfect method, it certainly helps when we don't already have movie IDs. Furthermore, these results are ordered by best match so the first match will typically be what you're looking for.
 		
 		
 
