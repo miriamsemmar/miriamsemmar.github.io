@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Mod 2 Project"
+title:      "ZIP Codes vs. Neighborhoods: Which is the better indicator of home price?"
 date:       2020-10-25 13:35:29 -0400
 permalink:  mod_2_project
 ---
