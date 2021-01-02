@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Customer Churn & Confusion Matrix Metrics. Which is best?"
-date:       2021-01-02 01:14:49 +0000
+date:       2021-01-01 20:14:50 -0500
 permalink:  customer_churn_and_confusion_matrix_metrics_which_is_best
 ---
 
