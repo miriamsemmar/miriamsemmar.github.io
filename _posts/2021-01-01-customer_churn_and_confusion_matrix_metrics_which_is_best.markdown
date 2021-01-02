@@ -12,17 +12,24 @@ We won't go into depth on the various modeling approaches here. Machine learning
 
 * Accuracy: a measure of how "right" a model is. This is calculated as the sum of true positives and true negatives divided by the total number of samples
 
+![](https://miro.medium.com/max/1836/1*sVuthxNoz09nzzJTDN1rww.png)
+
 * Precision: Precision looks at proportion of true positives of all samples the algorithm scored as positive. As a result, false positives drive down our precision score. 
+
+![](https://miro.medium.com/max/888/1*C3ctNdO0mde9fa1PFsCVqA.png)
 
 * Recall: Precision looks at proportion of samples the algorithm correctly scored as positive out of all the actual positives. In this case, false negatives decreases our recall score. 
 
+![](https://miro.medium.com/max/836/1*dXkDleGhA-jjZmZ1BlYKXg.png)
+
 
 * F1: F1 tells us the balance between precision and recall. F1-score is calculated as:
-      ![](https://miro.medium.com/max/564/1*T6kVUKxG_Z4V5Fm1UXhEIw.png)
+   
+	 ![](https://miro.medium.com/max/564/1*T6kVUKxG_Z4V5Fm1UXhEIw.png)
+	 
+	 
 
-*   the product of recall and precision divided by the sum of precision and recall times 2. 
-
-When evaluating customer churn, 
+When evaluating customer churn, precision and recall will be important to us. With recall, incorrectly predicting that someone who is going to churn as someone who won't churn will cost the business money. These are the exact people businesses need to be engaging with more and exerting resources on in order to maintain their business.  Precision is also important because we don't want to waste business resources on individuals who plan to maintain their customer status. 
 
 
 
