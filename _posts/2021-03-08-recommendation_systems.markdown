@@ -1,9 +1,6 @@
----
-layout: post
-title:      "Recommendation Systems"
-date:       2021-03-09 02:50:40 +0000
-permalink:  recommendation_systems
----
+
+<h1> Recommendation Systems </h1>
+
 
 Streaming services have exploded in popularity and availability as years have gone on. Netflix, Hulu, Paramount+, all promising some sort of entertainment. Sometimes, you log in to watch the newest episodes of your favorite show. Sometimes, you're bored and hoping something in your suggested watch list will catch your eye. But how exactly do these lists come to be? Recommendation systems! 
 
