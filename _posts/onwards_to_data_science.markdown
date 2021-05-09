@@ -1,10 +1,4 @@
----
-layout: post
-title:      "Onwards, to Data Science "
-date:       2020-05-26 02:49:16 +0000
-permalink:  onwards_to_data_science
----
-
+<h1> Onwards, to Data Science </h1>
 
 I went to Williams College. Nestled in tiny Williamstown, Massachusetts, its alumni affectionately refer to it as “the purple bubble”. While the purple mountains serve as the backdrop for your undergraduate experience, they also acts as walls blocking out the outside world. As a first generation college student, I entered my freshman year with a similarly narrow view of my career path. I was determined to become a doctor and focused my coursework on the sciences. I didn’t use my college years to explore other careers. When my senior year rolled around and it was time to start applying to medical schools, I was hesitant to make the commitment to this very expensive next step. I decided to postpone applying to medical school and started assessing my options.
 
