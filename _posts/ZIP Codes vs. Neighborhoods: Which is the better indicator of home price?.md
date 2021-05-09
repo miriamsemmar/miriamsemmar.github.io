@@ -1,9 +1,5 @@
----
-layout: post
-title:      "ZIP Codes vs. Neighborhoods: Which is the better indicator of home price?"
-date:       2020-10-25 13:35:29 -0400
-permalink:  mod_2_project
----
+<h1> ZIP Codes vs. Neighborhoods: Which is the better indicator of home price? </h1>
+
 
 
 Creating linear regression models can be tricky for numerous reasons. Have you scrubbed your data clean? Do you have outliers? What should we do with the outliers? Are your residuals normal? Do we need to transform any of our features? What type of transformation should we perform? What about multicollinearity? These are some of the questions we might consider. What I’d like to focus on today is the impact one of the earliest decisions you make in modeling can have on the output of your model. How does simplifying existing data impact our models?
