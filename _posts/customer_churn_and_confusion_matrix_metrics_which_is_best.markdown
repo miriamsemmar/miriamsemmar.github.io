@@ -1,10 +1,4 @@
----
-layout: post
-title:      "Customer Churn & Confusion Matrix Metrics. Which is best?"
-date:       2021-01-01 20:14:50 -0500
-permalink:  customer_churn_and_confusion_matrix_metrics_which_is_best
----
-
+<h1> Customer Churn & Confusion Matrix Metrics. Which is best? </h1>
 
 Customer churn is one of the most important metrics for a business providing ongoing services to evaluate. Think of subscription based services: Netflix, Hulu, Verizon, Spotify, etc. The subscription based business model has become increasingly popular. While customers are provided more flexibility, businesses must keep a close eye on how many of those users are churning. "What is churn?" you ask. Churn is the percentage of customers that stopped using your product. Some percentage of churn is expected. Users may try the service and decide another offering is a better fit. However, if this number is on the rise, the business risks losing large amounts of revenue. To keep churn as low as possible, businesses implement various strategies to make the product/service more enticing to users. This might be in the form of loyalty incentives, excellent customer service or discounts. However, before a business can work to counteract churn, they need to be able to determine who is at risk of churning before it is too late. Using machine learning algorithms, we can actually help to determine which customers are most likely to churn before we lose their business. 
 
